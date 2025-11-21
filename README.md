@@ -56,14 +56,14 @@ Atualmente evoluo minhas habilidades em **Data Science, análise de dados, model
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=OliveiraAlann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=OliveiraAlann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=600&v=2" 
   />
 
   <img 
       align="left" 
       alt="GitHub Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraAlann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraAlann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=600&v=2" 
   />
 </p>
 
