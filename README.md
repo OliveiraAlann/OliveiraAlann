@@ -22,7 +22,7 @@ Atualmente evoluo minhas habilidades em **Data Science, análise de dados, model
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/OliveiraAlann?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/OliveiraAlann?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&cache_seconds=600"
         />
    </a>
 </p>
