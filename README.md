@@ -14,7 +14,7 @@ Atualmente evoluo minhas habilidades em **Data Science, análise de dados, model
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OliveiraAlann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/OliveiraAlann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cache_seconds=600"
         />
    </a>
 
